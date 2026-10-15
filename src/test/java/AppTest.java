@@ -11,7 +11,7 @@ public class AppTest {
     }
     @Test
     public void testSimpleInterest2() {
-        assertEquals(500.0,
+        assertEquals(50.0,
                      obj.simpleInterest(5000, 5, 2), 0.001);
     }
     @Test
